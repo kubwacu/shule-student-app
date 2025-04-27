@@ -21,6 +21,8 @@ We believe in open education and digital access, and hope this project helps stu
 ## 📲 Core Features (Student App)
 
 - ✅ Authentication (Login/Logout)
+- ✅ Inscription documents Submit
+- ✅ AI Assistant chatbot to ask information about the university
 - ✅ Dashboard overview
 - ✅ View class schedule
 - ✅ Manage profile (photo, phone, address)
