@@ -1,0 +1,1 @@
+// Inscription documents submit screen

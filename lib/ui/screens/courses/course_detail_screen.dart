@@ -1,0 +1,1 @@
+// Course detail screen
